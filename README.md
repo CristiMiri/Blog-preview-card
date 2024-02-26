@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [git repo](https://github.com/CristiMiri/Social-links-profile)
-- Live Site URL: [git page](https://cristimiri.github.io/Social-links-profile/)
+- Solution URL: [git repo](https://github.com/CristiMiri/Blog-preview-card)
+- Live Site URL: [git page](https://cristimiri.github.io/blog-preview-card/)
 
 ## My process
 
